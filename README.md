@@ -1,0 +1,10 @@
+Class Helper is an app designed to simplify managing academic progress by providing detailed insights into class schedules, assignments, and grades. The app serves as an all-in-one platform for students to track their courses and simulate their academic outcomes.
+Key Features
+1.	Program and Course Information: Students can input detailed information about their programs, courses, and assignments. The app organizes this data to help students keep track of their academic progress.
+2.	Grade Simulation: Class Helper offers a feature where users can simulate different combinations of grades for each assignment to predict their final grade in a course. This allows students to experiment with potential outcomes based on their performance.
+3.	Minimum and Maximum Grades: The app helps students monitor their academic standing by calculating minimum and maximum grades. If the student enters a minimum grade requirement for a course, the app will inform them if they meet the requirements for approval. If the term end date is reached and the student hasn't met the minimum grade, they are informed of their status (approved or not).
+4.	Grade Summarization: The app offers a page summarizing the overall program information, including grades in various formats such as numeric, alpha, and GPA. This feature provides students with a comprehensive view of their academic standing.
+5.	Calendar Integration: A standout feature of Class Helper is its calendar functionality. It uses the class and assignment data to populate a calendar, showing the student their class schedules, location, assignment deadlines, and exam dates. This integration is meant to help students better manage their time and stay organized with reminders for important academic events.
+6.	Overall, Class Helper is designed to be an intuitive and powerful tool for students to track their academic journey, manage their time effectively, and optimize their performance across courses.
+
+run: flutter run --dart-define-from-file=api/api-keys.json
